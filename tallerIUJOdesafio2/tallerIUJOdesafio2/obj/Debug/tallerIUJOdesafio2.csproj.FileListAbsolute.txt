@@ -1,6 +1,0 @@
-C:\Users\CHARLY\Documents\tallerIUJOdesafios\tallerIUJOdesafio2\tallerIUJOdesafio2\bin\Debug\tallerIUJOdesafio2.exe.config
-C:\Users\CHARLY\Documents\tallerIUJOdesafios\tallerIUJOdesafio2\tallerIUJOdesafio2\bin\Debug\tallerIUJOdesafio2.exe
-C:\Users\CHARLY\Documents\tallerIUJOdesafios\tallerIUJOdesafio2\tallerIUJOdesafio2\bin\Debug\tallerIUJOdesafio2.pdb
-C:\Users\CHARLY\Documents\tallerIUJOdesafios\tallerIUJOdesafio2\tallerIUJOdesafio2\obj\Debug\tallerIUJOdesafio2.csprojResolveAssemblyReference.cache
-C:\Users\CHARLY\Documents\tallerIUJOdesafios\tallerIUJOdesafio2\tallerIUJOdesafio2\obj\Debug\tallerIUJOdesafio2.exe
-C:\Users\CHARLY\Documents\tallerIUJOdesafios\tallerIUJOdesafio2\tallerIUJOdesafio2\obj\Debug\tallerIUJOdesafio2.pdb
