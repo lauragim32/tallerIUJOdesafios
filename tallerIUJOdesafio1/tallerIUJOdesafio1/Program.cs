@@ -7,7 +7,7 @@ namespace tallerIUJOdesafio1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("=== VALIDADOR DE SEGURIDAD IUJO ===");
+            Console.WriteLine("*** VALIDADOR DE SEGURIDAD ***");
             Console.Write("Ingrese los datos (usuario;clave): ");
             string entrada = Console.ReadLine();
 
@@ -59,7 +59,7 @@ namespace tallerIUJOdesafio1
                 Console.WriteLine(" (El archivo está vacío, no hay claves débiles)");
             }
 
-            Console.WriteLine("\n=== PROCESO FINALIZADO. ===");
+            Console.WriteLine("\n*** PROCESO FINALIZADO. ***");
             Console.ReadKey(true);
         }
     }
